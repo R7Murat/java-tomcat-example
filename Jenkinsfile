@@ -10,8 +10,7 @@ pipeline {
             steps{
                 build job: 'Deploy-Application'
             }            
-        
-        
+               
         }
     }
 }
